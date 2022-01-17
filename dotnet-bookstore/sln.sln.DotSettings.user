@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/ActualSeverity/@EntryValue">INFO</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=be6fc0ea_002D1613_002D4ef0_002D9961_002D88091e076a9d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="WhenGivenTitleIsAlreadyExists_InvalidOperationException_ShouldBeReturn" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::42D89D2A-85F5-43F1-8605-570EB0125A00::net6.0::webapi.UnitTests.Applications.BookOperations.Commands.CreateBookCommandTest.WhenGivenTitleIsAlreadyExists_InvalidOperationException_ShouldBeReturn&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::42D89D2A-85F5-43F1-8605-570EB0125A00::net6.0::webapi.UnitTests.Applications.BookOperations.Commands.AddBookCommandValidatorTest.WhenInvalidInputsAreGiven_Validator_ShouldBeReturnErrors&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
