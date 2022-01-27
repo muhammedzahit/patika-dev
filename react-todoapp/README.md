@@ -1,1 +1,1 @@
-![screenshot](/screenshot.png "Main Page")
+![screenshot](./screenshot.png "Main Page")
