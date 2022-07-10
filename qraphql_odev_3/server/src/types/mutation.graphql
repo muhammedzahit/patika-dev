@@ -1,0 +1,16 @@
+type Mutation{
+    addNewComment(text : String!, post_id : ID, post_title : String) : Comment
+    updateComment(data : UpdateCommentInput!) : Comment
+    deleteComment(id : ID!) : Comment
+    deleteAllComments : Int
+
+    addNewPost(title : String!, user_id : ID, user_fullName : String) : Post
+    updatePost(data : UpdatePostInput!) : Post
+    deletePost(id : ID!) : Post
+    deleteAllPosts : Int
+
+    addNewUser(fullName : String!) : User
+    updateUser(data : UpdateUserInput!) : User
+    deleteUser(id : ID!) : User
+    deleteAllUsers : Int
+}
