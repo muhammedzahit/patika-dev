@@ -1,0 +1,10 @@
+type Query {
+    comments : [Comment],
+    comment(id : ID!) : Comment
+
+    posts(searchKey : String) : [Post],
+    post(id : ID!) : Post!,
+
+    users : [User],
+    user(id : ID!) : User,
+}

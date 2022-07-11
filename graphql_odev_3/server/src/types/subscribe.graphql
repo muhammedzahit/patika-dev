@@ -1,0 +1,5 @@
+type Subscription {
+	userCreated: User!
+	userCount: Int!
+	watchUserDetailChanged(id: ID!): User
+}

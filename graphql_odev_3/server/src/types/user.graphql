@@ -1,0 +1,6 @@
+type User {
+	id: ID!
+	fullName: String
+	posts: [Post]
+	photoUrl : String
+}
