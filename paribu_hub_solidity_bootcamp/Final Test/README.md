@@ -18,3 +18,7 @@ connect a testnet like Ropsten or Rinkeby and get some ETH from a faucet.
 
 ## Screenshots
 ![image](1.png)
+
+## Sunum Videosu
+
+https://www.loom.com/share/15ba3bdfe5f64c618f1c0cfba5dc8977 
